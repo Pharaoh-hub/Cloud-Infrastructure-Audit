@@ -1,0 +1,6 @@
+{
+    "scan_policy": "strict",
+    "retention_days": 30,
+    "notify_admin": true,
+    "required_security_controls": ["MFA", "Encryption_At_Rest"]
+}
